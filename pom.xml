@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.ic.uff.br</groupId>
+  <artifactId>navio-server</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>NavioServer</name>
+  <description>Socket Server para um jogo de batalha naval inspirado na Frota Kenway de Assassin's Creed IV. Feito para a disciplina de Redes no período 2024.2 da UFF, ministrada pelo professor Flavio Seixas.</description>
+	<dependencies>
+	<dependency>
+		<groupId>org.projectlombok</groupId>
+		<artifactId>lombok</artifactId>
+		<version>1.18.34</version>
+		<scope>provided</scope>
+	</dependency>
+</dependencies>
+</project>
